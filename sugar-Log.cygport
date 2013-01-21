@@ -1,0 +1,5 @@
+NAME="sugar-Log"
+VERSION=32
+RELEASE=1
+SUGAR_TYPE="fructose"
+inherit sugar
